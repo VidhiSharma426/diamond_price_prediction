@@ -2,7 +2,7 @@
 
 # Diamond Price Prediction
 
-![Diamond](https://media.istockphoto.com/id/503135837/photo/diamond-jewelry-holding.jpg?s=1024x1024&w=is&k=20&c=lhEi_GmiWQx1i7IAwbsQIO3ik86kpFA5-AJ8z3xJ_3c=)
+![Diamond](https://images.unsplash.com/photo-1638517747421-a1eb8b4c9828?q=80&w=1448&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 ## Overview
 
