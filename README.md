@@ -2,7 +2,7 @@
 
 # Diamond Price Prediction
 
-![Diamond](https://images.unsplash.com/photo-1518378188025-d6cc48515658?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80)
+![Diamond](https://media.istockphoto.com/id/503135837/photo/diamond-jewelry-holding.jpg?s=1024x1024&w=is&k=20&c=lhEi_GmiWQx1i7IAwbsQIO3ik86kpFA5-AJ8z3xJ_3c=)
 
 ## Overview
 
@@ -10,7 +10,7 @@ This project focuses on predicting the price of diamonds based on various attrib
 
 ## Dataset
 
-The dataset used for this project is the [Diamonds Dataset](https://www.kaggle.com/shivam2503/diamonds) available on Kaggle. It contains information about approximately 54,000 diamonds, including their carat weight, cut quality, color grade, clarity grade, and price.
+The dataset used for this project is the [Diamonds Dataset]([https://www.kaggle.com/shivam2503/diamonds] available on Kaggle. It contains information about approximately 54,000 diamonds, including their carat weight, cut quality, color grade, clarity grade, and price.
 
 ## Methodology
 
